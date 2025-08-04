@@ -26,4 +26,4 @@
 
 13. ssh-keygen #used to create private and public ssh key on local.
 
-14. git remote set-url origin git@github.com:<your-username>/90DaysOfDevOps.git #used to switch from http to ssh
+14. git remote set-url origin git@github.com:<your-username>/90DaysOfDevOps.git #used to switch from http to ssh....
