@@ -1,2 +1,0 @@
-hey..everyone Krishna here...and this file is for random data which is used for completing tasks.
-hey..as i have created new branch named feature-update i am adding this line to update the info file.
