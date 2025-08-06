@@ -69,3 +69,5 @@ Branching strategies used in companies :
                                              main branch (central integration point)
     Workflow : everyone commits frequently to avoid long lived branches.
                feature flags used to hide incomplete work.
+
+      Thankuyouu
